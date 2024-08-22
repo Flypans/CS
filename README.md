@@ -11,4 +11,3 @@ code snippets, and learning resources tailored for Mac users who want to dive in
 * Utilize .NET Core for cross-platform C# application development
 * Share insights and best practices for Mac-based C# developers
 * Demonstrate the versatility of C# beyond Windows environments
-* 
